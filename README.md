@@ -1,6 +1,4 @@
-# uae-local-seo-checklist
-A practical local SEO checklist for businesses in Duai and the UAE.
-# UAE Local SEO Checklist
+#  UAE Local SEO Checklist
 
 A working checklist for getting a Dubai or UAE business into the Google Map Pack and local search results. Maintained by the SEO team at [Digital Media Sapiens](https://digitalmediasapiens.com/), a Google Premier Partner agency in Dubai.
 
